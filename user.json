@@ -1,16 +1,16 @@
 [{
     "code": "TESTER1",
     "pin": "9fbb1f655019f93e219098c380d7edb6",
-    "autoMode": "dom",
+    "transMode": "dom",
     "expire": -1
 },{
     "code": "TESTER2",
     "pin": "bcfdda6df79ca3e75bfde39bdcfab653",
-    "autoMode": "dom",
+    "transMode": "dom",
     "expire": -1
 },{
     "code": "TESTER3",
     "pin": "c7c714df38004f4ec6571e345efaa65f",
-    "autoMode": "api",
+    "transMode": "api",
     "expire": -1
 }]
