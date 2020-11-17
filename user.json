@@ -1,15 +1,18 @@
 [{
     "code": "TESTER1",
     "pin": "9fbb1f655019f93e219098c380d7edb6",
+    "name":"测试用户1",
     "transMode": "dom",
     "expire": -1
 },{
     "code": "TESTER2",
+    "name":"测试用户2",
     "pin": "bcfdda6df79ca3e75bfde39bdcfab653",
     "transMode": "dom",
     "expire": -1
 },{
     "code": "TESTER3",
+    "name":"测试用户3",
     "pin": "c7c714df38004f4ec6571e345efaa65f",
     "transMode": "api",
     "expire": -1
